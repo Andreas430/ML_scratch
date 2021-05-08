@@ -10,13 +10,16 @@ The task is to predict crop yield (tonnes per hectare) for the major maize crop 
 
 ● Mean maximum temperature. Likewise to above.
 
-Year has also been included to account for improvements in farming techniques; the data
-covers three decades
+Year has also been included to account for improvements in farming techniques; the data covers three decades
 
 Four different algoriths were implented on the dataset and on a try problem to test their validity:
+
 ○ Linear regression
+
 ○ Regression forest 
+
 ○ Gaussian process
+
 ○ k-Nearest Neighbours
 
 Please take a look at the Hand on Implementation pdf for more information, results, analysis and further improvements
